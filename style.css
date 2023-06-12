@@ -23,12 +23,13 @@ img{
     
 }
 .perfum{
-    font-family:'Montserrat' ;
+    font-family:'Montserrat', sans-serif;;
     font-size: 0.8em;
-    margin-top: 19px;
+    margin-top: 16px;
     margin-left: 22px;
     color:hsla(228, 12%, 48%, 0.733);
     letter-spacing: 3px;
+    text-transform: uppercase;
 
 }
 .titulo{
@@ -91,9 +92,14 @@ img{
     background-color: hsl(158, 36%, 37%);
    
 }
+.button:hover {
+    background-color: hsl(158, 36%, 20%);
+    cursor: pointer;
+    transition: ease 0.5s;
+  }
 .btext{
     color:white;
-    font-weight: bold;
+  
     padding-top: 10px;
 }
 .icon{
