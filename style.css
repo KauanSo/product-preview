@@ -24,11 +24,12 @@ img{
 }
 .perfum{
     font-family:'Montserrat' ;
-    font-size: 1.1em;
-    margin-top: 17px;
-    margin-left: 20px;
+    font-size: 0.8em;
+    margin-top: 19px;
+    margin-left: 22px;
     color:hsla(228, 12%, 48%, 0.733);
     letter-spacing: 3px;
+
 }
 .titulo{
     font-family: 'Fraunces';
